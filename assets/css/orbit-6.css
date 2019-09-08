@@ -259,6 +259,7 @@ p {
   font-weight: 400;
   margin-top: 0;
   margin-bottom: 5px;
+  color: black;
 }
 
 .main-wrapper .projects-section .intro {
@@ -282,7 +283,7 @@ p {
 
 .skillset .level-bar {
   height: 12px;
-  background: #f5f5f5;
+  background: #8cc6df71;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   -ms-border-radius: 2px;
