@@ -1,6 +1,4 @@
-# resume
-
-Resume of Derrick Beckler.
+# Resume of Derrick Beckler.
 
 https://dbeckler-resume.netlify.com/
 
